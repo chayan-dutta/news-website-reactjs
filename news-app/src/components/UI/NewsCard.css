@@ -1,0 +1,37 @@
+.news-card {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.news-image {
+  flex: 0 0 150px; /* Fixed width for the image */
+  margin-right: 10px;
+}
+
+.news-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.news-content {
+  flex: 1; /* Remaining width for the content */
+  align-items: flex-start;
+}
+
+.news-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.news-description {
+  margin-top: 5px;
+  color: #ad90e4;
+  font-weight: 500;
+  text-align: justify;
+}

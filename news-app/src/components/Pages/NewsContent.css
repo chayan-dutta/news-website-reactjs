@@ -1,0 +1,19 @@
+.div-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.image {
+  height: 500px;
+  width: 800px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.content {
+  text-align: justify;
+}

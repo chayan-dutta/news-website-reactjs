@@ -1,0 +1,20 @@
+.my-container {
+  text-align: center;
+  color: white;
+  width: 100%;
+  min-height: 60vh;
+  cursor: pointer;
+}
+
+.caption {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.news-img {
+  max-height: 60vh;
+  width: 100%;
+}

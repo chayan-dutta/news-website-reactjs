@@ -1,0 +1,11 @@
+.header-class {
+  position: fixed;
+  z-index: 999;
+  right: 0;
+  left: 0;
+}
+
+.loader-icon {
+  position: absolute;
+  left: 50%;
+}
